@@ -1,0 +1,20 @@
+INFO  15:35:08,315 - Compiling source file: D:\FAKS\Cetvrta godina\Prvi semestar\PP1\Domaci avgust 2\workspace\MJCompiler\test\test2.mj
+INFO  15:35:08,362 - #2 program
+INFO  15:35:08,362 - #45 test2
+INFO  15:35:08,363 - #6 const
+INFO  15:35:08,364 - #45 int
+INFO  15:35:08,364 - #45 jedan
+INFO  15:35:08,365 - #20 =
+INFO  15:35:08,365 - #44 1
+INFO  15:35:08,365 - #21 ;
+INFO  15:35:08,367 - #6 const
+INFO  15:35:08,368 - #45 int
+INFO  15:35:08,368 - #45 tri
+INFO  15:35:08,368 - #20 =
+INFO  15:35:08,368 - #44 3
+INFO  15:35:08,368 - #22 ,
+INFO  15:35:08,369 - #45 test
+INFO  15:35:08,369 - #21 ;
+ERROR 15:35:08,369 - 
+Sintaksna greska na liniji 4
+ERROR 15:35:08,369 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 4

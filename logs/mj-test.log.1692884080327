@@ -1,0 +1,37 @@
+INFO  15:33:43,373 - Compiling source file: D:\FAKS\Cetvrta godina\Prvi semestar\PP1\Domaci avgust 2\workspace\MJCompiler\test\test2.mj
+INFO  15:33:43,420 - #2 program
+INFO  15:33:43,420 - #45 test2
+INFO  15:33:43,420 - #6 const
+INFO  15:33:43,422 - #45 int
+INFO  15:33:43,422 - #45 jedan
+INFO  15:33:43,423 - #20 =
+INFO  15:33:43,423 - #44 1
+INFO  15:33:43,423 - #21 ;
+INFO  15:33:43,424 - #6 const
+INFO  15:33:43,425 - #45 int
+INFO  15:33:43,426 - #45 tri
+INFO  15:33:43,426 - #20 =
+INFO  15:33:43,426 - #44 3
+INFO  15:33:43,426 - #21 ;
+INFO  15:33:43,426 - #45 int
+INFO  15:33:43,426 - #45 i
+INFO  15:33:43,427 - #21 ;
+INFO  15:33:43,429 - #45 int
+INFO  15:33:43,430 - #45 niz
+INFO  15:33:43,430 - #27 [
+INFO  15:33:43,430 - #28 ]
+INFO  15:33:43,431 - #21 ;
+INFO  15:33:43,432 - #25 {
+INFO  15:33:43,432 - #13 void
+INFO  15:33:43,433 - #45 main
+INFO  15:33:43,433 - #23 (
+INFO  15:33:43,434 - #24 )
+INFO  15:33:43,435 - #45 int
+INFO  15:33:43,435 - #45 pom
+INFO  15:33:43,435 - #21 ;
+INFO  15:33:43,435 - #25 {
+INFO  15:33:43,436 - #45 int
+INFO  15:33:43,436 - #45 test
+ERROR 15:33:43,436 - 
+Sintaksna greska na liniji 14
+ERROR 15:33:43,437 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 14

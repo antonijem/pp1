@@ -1,0 +1,214 @@
+INFO  22:45:44,695 - Compiling source file: D:\FAKS\Cetvrta godina\Prvi semestar\PP1\Domaci avgust 2\workspace\MJCompiler\test\program.mj
+INFO  22:45:44,731 - #2 program
+INFO  22:45:44,731 - #45 MJProgram
+INFO  22:45:44,731 - #45 int
+INFO  22:45:44,732 - #45 a
+INFO  22:45:44,733 - #21 ;
+INFO  22:45:44,734 - #45 int
+INFO  22:45:44,734 - #45 niz
+INFO  22:45:44,735 - #27 [
+INFO  22:45:44,735 - #28 ]
+INFO  22:45:44,735 - #22 ,
+INFO  22:45:44,736 - #45 niz2
+INFO  22:45:44,736 - #27 [
+INFO  22:45:44,736 - #28 ]
+INFO  22:45:44,736 - #21 ;
+INFO  22:45:44,736 - #45 char
+INFO  22:45:44,736 - #45 niz3
+INFO  22:45:44,736 - #27 [
+INFO  22:45:44,736 - #28 ]
+INFO  22:45:44,736 - #21 ;
+INFO  22:45:44,736 - #45 char
+INFO  22:45:44,738 - #45 c
+INFO  22:45:44,738 - #21 ;
+INFO  22:45:44,738 - #25 {
+INFO  22:45:44,738 - #13 void
+INFO  22:45:44,738 - #45 main
+INFO  22:45:44,739 - #23 (
+INFO  22:45:44,740 - #24 )
+INFO  22:45:44,740 - #45 bool
+INFO  22:45:44,740 - #45 istina
+INFO  22:45:44,741 - #21 ;
+INFO  22:45:44,741 - #45 int
+INFO  22:45:44,741 - #45 p
+INFO  22:45:44,741 - #21 ;
+INFO  22:45:44,741 - #25 {
+INFO  22:45:44,741 - #45 istina
+INFO  22:45:44,742 - #20 =
+INFO  22:45:44,743 - #45 niz2
+INFO  22:45:44,743 - #18 .
+INFO  22:45:44,743 - #17 findAny
+INFO  22:45:44,743 - #23 (
+INFO  22:45:44,743 - #44 5
+INFO  22:45:44,743 - #24 )
+INFO  22:45:44,746 - #21 ;
+INFO  22:45:44,746 - #26 }
+INFO  22:45:44,746 - #26 }
+INFO  22:45:44,753 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  DeclList(
+    DeclList(
+      DeclList(
+        DeclList(
+          NoDecl(
+          ) [NoDecl]
+          VariableDecl(
+            VarDecl(
+              Type(
+               int
+              ) [Type]
+              VarDeclIns(
+               a
+                NoArray(
+                ) [NoArray]
+                NoVarDeclList(
+                ) [NoVarDeclList]
+              ) [VarDeclIns]
+            ) [VarDecl]
+          ) [VariableDecl]
+        ) [DeclList]
+        VariableDecl(
+          VarDecl(
+            Type(
+             int
+            ) [Type]
+            VarDeclIns(
+             niz
+              IsArray(
+              ) [IsArray]
+              VariableDeclList(
+                NoVarDeclList(
+                ) [NoVarDeclList]
+               niz2
+                IsArray(
+                ) [IsArray]
+              ) [VariableDeclList]
+            ) [VarDeclIns]
+          ) [VarDecl]
+        ) [VariableDecl]
+      ) [DeclList]
+      VariableDecl(
+        VarDecl(
+          Type(
+           char
+          ) [Type]
+          VarDeclIns(
+           niz3
+            IsArray(
+            ) [IsArray]
+            NoVarDeclList(
+            ) [NoVarDeclList]
+          ) [VarDeclIns]
+        ) [VarDecl]
+      ) [VariableDecl]
+    ) [DeclList]
+    VariableDecl(
+      VarDecl(
+        Type(
+         char
+        ) [Type]
+        VarDeclIns(
+         c
+          NoArray(
+          ) [NoArray]
+          NoVarDeclList(
+          ) [NoVarDeclList]
+        ) [VarDeclIns]
+      ) [VarDecl]
+    ) [VariableDecl]
+  ) [DeclList]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      MethodTypeName(
+        MethodTypeVoid(
+        ) [MethodTypeVoid]
+       main
+      ) [MethodTypeName]
+      NoFormPars(
+      ) [NoFormPars]
+      MethodVariableDecl(
+        MethodVariableDecl(
+          NoMethodVarDecl(
+          ) [NoMethodVarDecl]
+          VarDecl(
+            Type(
+             bool
+            ) [Type]
+            VarDeclIns(
+             istina
+              NoArray(
+              ) [NoArray]
+              NoVarDeclList(
+              ) [NoVarDeclList]
+            ) [VarDeclIns]
+          ) [VarDecl]
+        ) [MethodVariableDecl]
+        VarDecl(
+          Type(
+           int
+          ) [Type]
+          VarDeclIns(
+           p
+            NoArray(
+            ) [NoArray]
+            NoVarDeclList(
+            ) [NoVarDeclList]
+          ) [VarDeclIns]
+        ) [VarDecl]
+      ) [MethodVariableDecl]
+      StatementLists(
+        NoStatementList(
+        ) [NoStatementList]
+        DesignatorStmt(
+          DesignatorStatement(
+            Designator(
+             istina
+              NoDesOpt(
+              ) [NoDesOpt]
+            ) [Designator]
+            DesignatorAssign(
+              ExprNoMinus(
+                Term(
+                  FactorDesFindAny(
+                    FindAnyHelper(
+                     niz2
+                    ) [FindAnyHelper]
+                    ExprNoMinus(
+                      Term(
+                        NumFactor(
+                         5
+                        ) [NumFactor]
+                        NoMullopFacot(
+                        ) [NoMullopFacot]
+                      ) [Term]
+                      NoAddopTerm(
+                      ) [NoAddopTerm]
+                    ) [ExprNoMinus]
+                  ) [FactorDesFindAny]
+                  NoMullopFacot(
+                  ) [NoMullopFacot]
+                ) [Term]
+                NoAddopTerm(
+                ) [NoAddopTerm]
+              ) [ExprNoMinus]
+            ) [DesignatorAssign]
+          ) [DesignatorStatement]
+        ) [DesignatorStmt]
+      ) [StatementLists]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  22:45:44,753 - ===================================
+INFO  22:45:44,757 - Prepoznata globalna promenljiva a na liniji 2
+INFO  22:45:44,757 - Prepoznata globalna promenljiva niz2 na liniji 9
+INFO  22:45:44,757 - Prepoznata globalna promenljiva niz na liniji 3
+INFO  22:45:44,757 - Prepoznata globalna promenljiva niz3 na liniji 4
+INFO  22:45:44,757 - Prepoznata globalna promenljiva c na liniji 5
+INFO  22:45:44,757 - Prepoznata lokalna promenljiva istina na liniji 9
+INFO  22:45:44,757 - Prepoznata lokalna promenljiva p na liniji 9
+INFO  22:45:44,757 - ===================================
+INFO  22:45:44,761 - Parsiranje uspesno zavrseno!

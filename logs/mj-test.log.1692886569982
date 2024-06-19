@@ -1,0 +1,2038 @@
+INFO  16:15:32,495 - Compiling source file: D:\FAKS\Cetvrta godina\Prvi semestar\PP1\Domaci avgust 2\workspace\MJCompiler\test\program.mj
+INFO  16:15:32,521 - #2 program
+INFO  16:15:32,521 - #45 test301
+INFO  16:15:32,521 - #6 const
+INFO  16:15:32,521 - #45 int
+INFO  16:15:32,522 - #45 nula
+INFO  16:15:32,522 - #20 =
+INFO  16:15:32,522 - #44 0
+INFO  16:15:32,522 - #21 ;
+INFO  16:15:32,523 - #6 const
+INFO  16:15:32,523 - #45 int
+INFO  16:15:32,523 - #45 jedan
+INFO  16:15:32,524 - #20 =
+INFO  16:15:32,524 - #44 1
+INFO  16:15:32,524 - #21 ;
+INFO  16:15:32,524 - #6 const
+INFO  16:15:32,524 - #45 int
+INFO  16:15:32,524 - #45 pet
+INFO  16:15:32,524 - #20 =
+INFO  16:15:32,524 - #44 5
+INFO  16:15:32,524 - #21 ;
+INFO  16:15:32,525 - #45 int
+INFO  16:15:32,525 - #45 niz
+INFO  16:15:32,525 - #27 [
+INFO  16:15:32,525 - #28 ]
+INFO  16:15:32,525 - #22 ,
+INFO  16:15:32,526 - #45 niz2
+INFO  16:15:32,526 - #27 [
+INFO  16:15:32,526 - #28 ]
+INFO  16:15:32,526 - #22 ,
+INFO  16:15:32,527 - #45 a
+INFO  16:15:32,527 - #22 ,
+INFO  16:15:32,527 - #45 b
+INFO  16:15:32,527 - #21 ;
+INFO  16:15:32,527 - #45 char
+INFO  16:15:32,527 - #45 nizch
+INFO  16:15:32,528 - #27 [
+INFO  16:15:32,528 - #28 ]
+INFO  16:15:32,528 - #21 ;
+INFO  16:15:32,528 - #45 int
+INFO  16:15:32,528 - #45 mat
+INFO  16:15:32,528 - #27 [
+INFO  16:15:32,528 - #28 ]
+INFO  16:15:32,528 - #27 [
+ERROR 16:15:32,528 - 
+Sintaksna greska na liniji 11
+INFO  16:15:32,528 - #28 ]
+INFO  16:15:32,528 - #21 ;
+INFO  16:15:32,528 - #25 {
+INFO  16:15:32,529 - #13 void
+INFO  16:15:32,529 - #45 main
+ERROR 16:15:32,529 - Izvrsen oporavak globalne promenljive na liniji 11
+INFO  16:15:32,530 - #23 (
+INFO  16:15:32,530 - #24 )
+INFO  16:15:32,530 - #45 int
+INFO  16:15:32,531 - #45 bodovi
+INFO  16:15:32,531 - #21 ;
+INFO  16:15:32,531 - #45 bool
+INFO  16:15:32,531 - #45 bt
+INFO  16:15:32,531 - #21 ;
+INFO  16:15:32,531 - #25 {
+INFO  16:15:32,531 - #45 bodovi
+INFO  16:15:32,531 - #20 =
+INFO  16:15:32,532 - #44 0
+INFO  16:15:32,532 - #21 ;
+INFO  16:15:32,533 - #45 bodovi
+INFO  16:15:32,534 - #34 ++
+INFO  16:15:32,534 - #21 ;
+INFO  16:15:32,534 - #45 bodovi
+INFO  16:15:32,534 - #20 =
+INFO  16:15:32,534 - #45 bodovi
+INFO  16:15:32,534 - #19 +
+INFO  16:15:32,535 - #45 jedan
+INFO  16:15:32,535 - #21 ;
+INFO  16:15:32,535 - #45 bodovi
+INFO  16:15:32,535 - #20 =
+INFO  16:15:32,535 - #45 bodovi
+INFO  16:15:32,535 - #30 *
+INFO  16:15:32,535 - #45 pet
+INFO  16:15:32,536 - #21 ;
+INFO  16:15:32,536 - #45 bodovi
+INFO  16:15:32,536 - #35 --
+INFO  16:15:32,536 - #21 ;
+INFO  16:15:32,537 - #10 print
+INFO  16:15:32,537 - #23 (
+INFO  16:15:32,537 - #45 bodovi
+INFO  16:15:32,537 - #24 )
+INFO  16:15:32,537 - #21 ;
+INFO  16:15:32,537 - #45 niz
+INFO  16:15:32,537 - #20 =
+INFO  16:15:32,537 - #9 new
+INFO  16:15:32,537 - #45 int
+INFO  16:15:32,537 - #27 [
+INFO  16:15:32,537 - #44 3
+INFO  16:15:32,538 - #28 ]
+INFO  16:15:32,538 - #21 ;
+INFO  16:15:32,538 - #45 niz
+INFO  16:15:32,538 - #27 [
+INFO  16:15:32,538 - #45 nula
+INFO  16:15:32,538 - #28 ]
+INFO  16:15:32,538 - #20 =
+INFO  16:15:32,538 - #45 jedan
+INFO  16:15:32,544 - #21 ;
+INFO  16:15:32,545 - #45 niz
+INFO  16:15:32,545 - #27 [
+INFO  16:15:32,545 - #44 1
+INFO  16:15:32,545 - #28 ]
+INFO  16:15:32,545 - #20 =
+INFO  16:15:32,545 - #44 2
+INFO  16:15:32,545 - #21 ;
+INFO  16:15:32,545 - #45 niz
+INFO  16:15:32,545 - #27 [
+INFO  16:15:32,545 - #45 niz
+INFO  16:15:32,545 - #27 [
+INFO  16:15:32,545 - #45 jedan
+INFO  16:15:32,545 - #28 ]
+INFO  16:15:32,545 - #28 ]
+INFO  16:15:32,545 - #20 =
+INFO  16:15:32,545 - #45 niz
+INFO  16:15:32,545 - #27 [
+INFO  16:15:32,545 - #45 niz
+INFO  16:15:32,545 - #27 [
+INFO  16:15:32,545 - #44 0
+INFO  16:15:32,545 - #28 ]
+INFO  16:15:32,546 - #28 ]
+INFO  16:15:32,546 - #30 *
+INFO  16:15:32,546 - #44 3
+INFO  16:15:32,546 - #21 ;
+INFO  16:15:32,546 - #45 bodovi
+INFO  16:15:32,546 - #20 =
+INFO  16:15:32,546 - #45 niz
+INFO  16:15:32,546 - #27 [
+INFO  16:15:32,546 - #44 2
+INFO  16:15:32,546 - #28 ]
+INFO  16:15:32,546 - #31 /
+INFO  16:15:32,546 - #45 niz
+INFO  16:15:32,546 - #27 [
+INFO  16:15:32,546 - #44 0
+INFO  16:15:32,547 - #28 ]
+INFO  16:15:32,547 - #21 ;
+INFO  16:15:32,547 - #10 print
+INFO  16:15:32,547 - #23 (
+INFO  16:15:32,547 - #45 bodovi
+INFO  16:15:32,547 - #24 )
+INFO  16:15:32,547 - #21 ;
+INFO  16:15:32,547 - #10 print
+INFO  16:15:32,547 - #23 (
+INFO  16:15:32,547 - #45 niz
+INFO  16:15:32,547 - #27 [
+INFO  16:15:32,547 - #44 2
+INFO  16:15:32,547 - #28 ]
+INFO  16:15:32,547 - #24 )
+INFO  16:15:32,547 - #21 ;
+INFO  16:15:32,547 - #45 mat
+INFO  16:15:32,547 - #20 =
+INFO  16:15:32,547 - #9 new
+INFO  16:15:32,547 - #45 int
+INFO  16:15:32,547 - #27 [
+INFO  16:15:32,547 - #44 2
+INFO  16:15:32,548 - #28 ]
+INFO  16:15:32,548 - #27 [
+ERROR 16:15:32,548 - 
+Sintaksna greska na liniji 34
+INFO  16:15:32,548 - #44 2
+INFO  16:15:32,548 - #28 ]
+INFO  16:15:32,548 - #21 ;
+INFO  16:15:32,548 - #45 mat
+INFO  16:15:32,548 - #27 [
+INFO  16:15:32,548 - #44 0
+ERROR 16:15:32,548 - Izvrsen oporavak kod dodele na liniji 34
+INFO  16:15:32,548 - #28 ]
+INFO  16:15:32,548 - #27 [
+INFO  16:15:32,548 - #44 0
+INFO  16:15:32,548 - #28 ]
+INFO  16:15:32,548 - #20 =
+INFO  16:15:32,548 - #45 niz
+INFO  16:15:32,549 - #27 [
+INFO  16:15:32,549 - #45 nula
+INFO  16:15:32,549 - #28 ]
+INFO  16:15:32,549 - #21 ;
+INFO  16:15:32,549 - #45 mat
+INFO  16:15:32,549 - #27 [
+INFO  16:15:32,549 - #44 0
+INFO  16:15:32,549 - #28 ]
+INFO  16:15:32,549 - #27 [
+INFO  16:15:32,549 - #45 mat
+INFO  16:15:32,549 - #27 [
+INFO  16:15:32,549 - #44 0
+INFO  16:15:32,549 - #28 ]
+INFO  16:15:32,549 - #27 [
+INFO  16:15:32,549 - #44 0
+INFO  16:15:32,549 - #28 ]
+INFO  16:15:32,549 - #28 ]
+INFO  16:15:32,549 - #20 =
+INFO  16:15:32,549 - #44 2
+INFO  16:15:32,549 - #21 ;
+INFO  16:15:32,549 - #45 mat
+INFO  16:15:32,549 - #27 [
+INFO  16:15:32,549 - #44 1
+INFO  16:15:32,549 - #28 ]
+INFO  16:15:32,549 - #27 [
+INFO  16:15:32,549 - #45 jedan
+INFO  16:15:32,549 - #29 -
+INFO  16:15:32,550 - #45 niz
+INFO  16:15:32,550 - #27 [
+INFO  16:15:32,550 - #44 0
+INFO  16:15:32,550 - #28 ]
+INFO  16:15:32,550 - #28 ]
+INFO  16:15:32,550 - #20 =
+INFO  16:15:32,550 - #44 5
+INFO  16:15:32,550 - #21 ;
+INFO  16:15:32,550 - #45 mat
+INFO  16:15:32,550 - #27 [
+INFO  16:15:32,550 - #44 1
+INFO  16:15:32,550 - #28 ]
+INFO  16:15:32,550 - #27 [
+INFO  16:15:32,550 - #44 1
+INFO  16:15:32,550 - #28 ]
+INFO  16:15:32,550 - #20 =
+INFO  16:15:32,550 - #45 mat
+INFO  16:15:32,550 - #27 [
+INFO  16:15:32,550 - #44 0
+INFO  16:15:32,550 - #28 ]
+INFO  16:15:32,550 - #27 [
+INFO  16:15:32,551 - #44 0
+INFO  16:15:32,551 - #28 ]
+INFO  16:15:32,551 - #30 *
+INFO  16:15:32,551 - #45 mat
+INFO  16:15:32,551 - #27 [
+INFO  16:15:32,551 - #44 0
+INFO  16:15:32,551 - #28 ]
+INFO  16:15:32,551 - #27 [
+INFO  16:15:32,551 - #44 1
+INFO  16:15:32,551 - #28 ]
+INFO  16:15:32,551 - #21 ;
+INFO  16:15:32,553 - #10 print
+INFO  16:15:32,553 - #23 (
+INFO  16:15:32,553 - #45 mat
+INFO  16:15:32,553 - #27 [
+INFO  16:15:32,553 - #44 1
+INFO  16:15:32,553 - #28 ]
+INFO  16:15:32,553 - #27 [
+INFO  16:15:32,553 - #44 0
+INFO  16:15:32,553 - #28 ]
+INFO  16:15:32,553 - #24 )
+INFO  16:15:32,553 - #21 ;
+INFO  16:15:32,553 - #10 print
+INFO  16:15:32,553 - #23 (
+INFO  16:15:32,553 - #45 mat
+INFO  16:15:32,553 - #27 [
+INFO  16:15:32,553 - #44 1
+INFO  16:15:32,553 - #28 ]
+INFO  16:15:32,553 - #27 [
+INFO  16:15:32,553 - #44 1
+INFO  16:15:32,553 - #28 ]
+INFO  16:15:32,553 - #24 )
+INFO  16:15:32,554 - #21 ;
+INFO  16:15:32,554 - #45 nizch
+INFO  16:15:32,554 - #20 =
+INFO  16:15:32,554 - #9 new
+INFO  16:15:32,554 - #45 char
+INFO  16:15:32,554 - #27 [
+INFO  16:15:32,554 - #44 3
+INFO  16:15:32,554 - #28 ]
+INFO  16:15:32,554 - #21 ;
+INFO  16:15:32,554 - #45 nizch
+INFO  16:15:32,554 - #27 [
+INFO  16:15:32,554 - #44 0
+INFO  16:15:32,554 - #28 ]
+INFO  16:15:32,554 - #20 =
+INFO  16:15:32,554 - #47 a
+INFO  16:15:32,554 - #21 ;
+INFO  16:15:32,554 - #45 nizch
+INFO  16:15:32,554 - #27 [
+INFO  16:15:32,554 - #45 jedan
+INFO  16:15:32,554 - #28 ]
+INFO  16:15:32,555 - #20 =
+INFO  16:15:32,555 - #47 b
+INFO  16:15:32,555 - #21 ;
+INFO  16:15:32,555 - #45 nizch
+INFO  16:15:32,555 - #27 [
+INFO  16:15:32,555 - #45 pet
+INFO  16:15:32,555 - #29 -
+INFO  16:15:32,555 - #44 3
+INFO  16:15:32,555 - #28 ]
+INFO  16:15:32,555 - #20 =
+INFO  16:15:32,555 - #47 c
+INFO  16:15:32,555 - #21 ;
+INFO  16:15:32,555 - #10 print
+INFO  16:15:32,555 - #23 (
+INFO  16:15:32,555 - #45 nizch
+INFO  16:15:32,555 - #27 [
+INFO  16:15:32,555 - #44 1
+INFO  16:15:32,555 - #28 ]
+INFO  16:15:32,555 - #24 )
+INFO  16:15:32,555 - #21 ;
+INFO  16:15:32,555 - #10 print
+INFO  16:15:32,555 - #23 (
+INFO  16:15:32,555 - #45 nizch
+INFO  16:15:32,555 - #27 [
+INFO  16:15:32,555 - #45 jedan
+INFO  16:15:32,556 - #30 *
+INFO  16:15:32,556 - #44 2
+INFO  16:15:32,556 - #28 ]
+INFO  16:15:32,556 - #24 )
+INFO  16:15:32,556 - #21 ;
+INFO  16:15:32,556 - #11 read
+INFO  16:15:32,556 - #23 (
+INFO  16:15:32,556 - #45 bodovi
+INFO  16:15:32,556 - #24 )
+INFO  16:15:32,556 - #21 ;
+INFO  16:15:32,556 - #45 bodovi
+INFO  16:15:32,556 - #20 =
+INFO  16:15:32,556 - #29 -
+INFO  16:15:32,556 - #45 bodovi
+INFO  16:15:32,556 - #19 +
+INFO  16:15:32,556 - #23 (
+INFO  16:15:32,556 - #45 pet
+INFO  16:15:32,556 - #30 *
+INFO  16:15:32,557 - #45 a
+INFO  16:15:32,557 - #31 /
+INFO  16:15:32,557 - #44 2
+INFO  16:15:32,557 - #29 -
+INFO  16:15:32,557 - #45 jedan
+INFO  16:15:32,557 - #24 )
+INFO  16:15:32,557 - #30 *
+INFO  16:15:32,557 - #45 bodovi
+INFO  16:15:32,557 - #29 -
+INFO  16:15:32,557 - #23 (
+INFO  16:15:32,557 - #44 3
+INFO  16:15:32,557 - #32 %
+INFO  16:15:32,557 - #44 2
+INFO  16:15:32,558 - #19 +
+INFO  16:15:32,558 - #44 3
+INFO  16:15:32,558 - #30 *
+INFO  16:15:32,558 - #44 2
+INFO  16:15:32,558 - #29 -
+INFO  16:15:32,558 - #44 3
+INFO  16:15:32,558 - #24 )
+INFO  16:15:32,558 - #21 ;
+INFO  16:15:32,558 - #10 print
+INFO  16:15:32,558 - #23 (
+INFO  16:15:32,558 - #45 bodovi
+INFO  16:15:32,558 - #24 )
+INFO  16:15:32,558 - #21 ;
+INFO  16:15:32,559 - #26 }
+INFO  16:15:32,559 - #26 }
+INFO  16:15:32,567 - Program(
+  ProgName(
+   test301
+  ) [ProgName]
+  DeclList(
+    DeclList(
+      DeclList(
+        DeclList(
+          DeclList(
+            DeclList(
+              NoDecl(
+              ) [NoDecl]
+              ConstatnDecl(
+                ConstDecl(
+                  Type(
+                   int
+                  ) [Type]
+                  ConstName(
+                   nula
+                    NumConst(
+                     0
+                    ) [NumConst]
+                  ) [ConstName]
+                  NoConstDeclList(
+                  ) [NoConstDeclList]
+                ) [ConstDecl]
+              ) [ConstatnDecl]
+            ) [DeclList]
+            ConstatnDecl(
+              ConstDecl(
+                Type(
+                 int
+                ) [Type]
+                ConstName(
+                 jedan
+                  NumConst(
+                   1
+                  ) [NumConst]
+                ) [ConstName]
+                NoConstDeclList(
+                ) [NoConstDeclList]
+              ) [ConstDecl]
+            ) [ConstatnDecl]
+          ) [DeclList]
+          ConstatnDecl(
+            ConstDecl(
+              Type(
+               int
+              ) [Type]
+              ConstName(
+               pet
+                NumConst(
+                 5
+                ) [NumConst]
+              ) [ConstName]
+              NoConstDeclList(
+              ) [NoConstDeclList]
+            ) [ConstDecl]
+          ) [ConstatnDecl]
+        ) [DeclList]
+        VariableDecl(
+          VarDecl(
+            Type(
+             int
+            ) [Type]
+            VarDeclIns(
+             niz
+              IsArray(
+              ) [IsArray]
+              VariableDeclList(
+                VariableDeclList(
+                  VariableDeclList(
+                    NoVarDeclList(
+                    ) [NoVarDeclList]
+                   niz2
+                    IsArray(
+                    ) [IsArray]
+                  ) [VariableDeclList]
+                 a
+                  NoArray(
+                  ) [NoArray]
+                ) [VariableDeclList]
+               b
+                NoArray(
+                ) [NoArray]
+              ) [VariableDeclList]
+            ) [VarDeclIns]
+          ) [VarDecl]
+        ) [VariableDecl]
+      ) [DeclList]
+      VariableDecl(
+        VarDecl(
+          Type(
+           char
+          ) [Type]
+          VarDeclIns(
+           nizch
+            IsArray(
+            ) [IsArray]
+            NoVarDeclList(
+            ) [NoVarDeclList]
+          ) [VarDeclIns]
+        ) [VarDecl]
+      ) [VariableDecl]
+    ) [DeclList]
+    VariableDecl(
+      VarDecl(
+        Type(
+         int
+        ) [Type]
+        VarDeclInsideError(
+        ) [VarDeclInsideError]
+      ) [VarDecl]
+    ) [VariableDecl]
+  ) [DeclList]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      MethodTypeName(
+        MethodTypeVoid(
+        ) [MethodTypeVoid]
+       main
+      ) [MethodTypeName]
+      NoFormPars(
+      ) [NoFormPars]
+      MethodVariableDecl(
+        MethodVariableDecl(
+          NoMethodVarDecl(
+          ) [NoMethodVarDecl]
+          VarDecl(
+            Type(
+             int
+            ) [Type]
+            VarDeclIns(
+             bodovi
+              NoArray(
+              ) [NoArray]
+              NoVarDeclList(
+              ) [NoVarDeclList]
+            ) [VarDeclIns]
+          ) [VarDecl]
+        ) [MethodVariableDecl]
+        VarDecl(
+          Type(
+           bool
+          ) [Type]
+          VarDeclIns(
+           bt
+            NoArray(
+            ) [NoArray]
+            NoVarDeclList(
+            ) [NoVarDeclList]
+          ) [VarDeclIns]
+        ) [VarDecl]
+      ) [MethodVariableDecl]
+      StatementLists(
+        StatementLists(
+          StatementLists(
+            StatementLists(
+              StatementLists(
+                StatementLists(
+                  StatementLists(
+                    StatementLists(
+                      StatementLists(
+                        StatementLists(
+                          StatementLists(
+                            StatementLists(
+                              StatementLists(
+                                StatementLists(
+                                  StatementLists(
+                                    StatementLists(
+                                      StatementLists(
+                                        StatementLists(
+                                          StatementLists(
+                                            StatementLists(
+                                              StatementLists(
+                                                StatementLists(
+                                                  StatementLists(
+                                                    StatementLists(
+                                                      StatementLists(
+                                                        StatementLists(
+                                                          StatementLists(
+                                                            StatementLists(
+                                                              StatementLists(
+                                                                NoStatementList(
+                                                                ) [NoStatementList]
+                                                                DesignatorStmt(
+                                                                  DesignatorStatement(
+                                                                    Designator(
+                                                                     bodovi
+                                                                      NoDesOpt(
+                                                                      ) [NoDesOpt]
+                                                                    ) [Designator]
+                                                                    DesignatorAssign(
+                                                                      ExprNoMinus(
+                                                                        Term(
+                                                                          NumFactor(
+                                                                           0
+                                                                          ) [NumFactor]
+                                                                          NoMullopFacot(
+                                                                          ) [NoMullopFacot]
+                                                                        ) [Term]
+                                                                        NoAddopTerm(
+                                                                        ) [NoAddopTerm]
+                                                                      ) [ExprNoMinus]
+                                                                    ) [DesignatorAssign]
+                                                                  ) [DesignatorStatement]
+                                                                ) [DesignatorStmt]
+                                                              ) [StatementLists]
+                                                              DesignatorStmt(
+                                                                DesignatorStatement(
+                                                                  Designator(
+                                                                   bodovi
+                                                                    NoDesOpt(
+                                                                    ) [NoDesOpt]
+                                                                  ) [Designator]
+                                                                  DesignatorIncrement(
+                                                                  ) [DesignatorIncrement]
+                                                                ) [DesignatorStatement]
+                                                              ) [DesignatorStmt]
+                                                            ) [StatementLists]
+                                                            DesignatorStmt(
+                                                              DesignatorStatement(
+                                                                Designator(
+                                                                 bodovi
+                                                                  NoDesOpt(
+                                                                  ) [NoDesOpt]
+                                                                ) [Designator]
+                                                                DesignatorAssign(
+                                                                  ExprNoMinus(
+                                                                    Term(
+                                                                      FactoDesignator(
+                                                                        Designator(
+                                                                         bodovi
+                                                                          NoDesOpt(
+                                                                          ) [NoDesOpt]
+                                                                        ) [Designator]
+                                                                        NoFactorDesOpt(
+                                                                        ) [NoFactorDesOpt]
+                                                                      ) [FactoDesignator]
+                                                                      NoMullopFacot(
+                                                                      ) [NoMullopFacot]
+                                                                    ) [Term]
+                                                                    AddoperationTerm(
+                                                                      NoAddopTerm(
+                                                                      ) [NoAddopTerm]
+                                                                      Add(
+                                                                      ) [Add]
+                                                                      Term(
+                                                                        FactoDesignator(
+                                                                          Designator(
+                                                                           jedan
+                                                                            NoDesOpt(
+                                                                            ) [NoDesOpt]
+                                                                          ) [Designator]
+                                                                          NoFactorDesOpt(
+                                                                          ) [NoFactorDesOpt]
+                                                                        ) [FactoDesignator]
+                                                                        NoMullopFacot(
+                                                                        ) [NoMullopFacot]
+                                                                      ) [Term]
+                                                                    ) [AddoperationTerm]
+                                                                  ) [ExprNoMinus]
+                                                                ) [DesignatorAssign]
+                                                              ) [DesignatorStatement]
+                                                            ) [DesignatorStmt]
+                                                          ) [StatementLists]
+                                                          DesignatorStmt(
+                                                            DesignatorStatement(
+                                                              Designator(
+                                                               bodovi
+                                                                NoDesOpt(
+                                                                ) [NoDesOpt]
+                                                              ) [Designator]
+                                                              DesignatorAssign(
+                                                                ExprNoMinus(
+                                                                  Term(
+                                                                    FactoDesignator(
+                                                                      Designator(
+                                                                       bodovi
+                                                                        NoDesOpt(
+                                                                        ) [NoDesOpt]
+                                                                      ) [Designator]
+                                                                      NoFactorDesOpt(
+                                                                      ) [NoFactorDesOpt]
+                                                                    ) [FactoDesignator]
+                                                                    MullopFact(
+                                                                      NoMullopFacot(
+                                                                      ) [NoMullopFacot]
+                                                                      Mull(
+                                                                      ) [Mull]
+                                                                      FactoDesignator(
+                                                                        Designator(
+                                                                         pet
+                                                                          NoDesOpt(
+                                                                          ) [NoDesOpt]
+                                                                        ) [Designator]
+                                                                        NoFactorDesOpt(
+                                                                        ) [NoFactorDesOpt]
+                                                                      ) [FactoDesignator]
+                                                                    ) [MullopFact]
+                                                                  ) [Term]
+                                                                  NoAddopTerm(
+                                                                  ) [NoAddopTerm]
+                                                                ) [ExprNoMinus]
+                                                              ) [DesignatorAssign]
+                                                            ) [DesignatorStatement]
+                                                          ) [DesignatorStmt]
+                                                        ) [StatementLists]
+                                                        DesignatorStmt(
+                                                          DesignatorStatement(
+                                                            Designator(
+                                                             bodovi
+                                                              NoDesOpt(
+                                                              ) [NoDesOpt]
+                                                            ) [Designator]
+                                                            DesignatorDecrement(
+                                                            ) [DesignatorDecrement]
+                                                          ) [DesignatorStatement]
+                                                        ) [DesignatorStmt]
+                                                      ) [StatementLists]
+                                                      PrintStmt(
+                                                        ExprNoMinus(
+                                                          Term(
+                                                            FactoDesignator(
+                                                              Designator(
+                                                               bodovi
+                                                                NoDesOpt(
+                                                                ) [NoDesOpt]
+                                                              ) [Designator]
+                                                              NoFactorDesOpt(
+                                                              ) [NoFactorDesOpt]
+                                                            ) [FactoDesignator]
+                                                            NoMullopFacot(
+                                                            ) [NoMullopFacot]
+                                                          ) [Term]
+                                                          NoAddopTerm(
+                                                          ) [NoAddopTerm]
+                                                        ) [ExprNoMinus]
+                                                        NoPrintArg(
+                                                        ) [NoPrintArg]
+                                                      ) [PrintStmt]
+                                                    ) [StatementLists]
+                                                    DesignatorStmt(
+                                                      DesignatorStatement(
+                                                        Designator(
+                                                         niz
+                                                          NoDesOpt(
+                                                          ) [NoDesOpt]
+                                                        ) [Designator]
+                                                        DesignatorAssign(
+                                                          ExprNoMinus(
+                                                            Term(
+                                                              FactorNew(
+                                                                Type(
+                                                                 int
+                                                                ) [Type]
+                                                                FactorArrayOpt(
+                                                                  ExprNoMinus(
+                                                                    Term(
+                                                                      NumFactor(
+                                                                       3
+                                                                      ) [NumFactor]
+                                                                      NoMullopFacot(
+                                                                      ) [NoMullopFacot]
+                                                                    ) [Term]
+                                                                    NoAddopTerm(
+                                                                    ) [NoAddopTerm]
+                                                                  ) [ExprNoMinus]
+                                                                ) [FactorArrayOpt]
+                                                              ) [FactorNew]
+                                                              NoMullopFacot(
+                                                              ) [NoMullopFacot]
+                                                            ) [Term]
+                                                            NoAddopTerm(
+                                                            ) [NoAddopTerm]
+                                                          ) [ExprNoMinus]
+                                                        ) [DesignatorAssign]
+                                                      ) [DesignatorStatement]
+                                                    ) [DesignatorStmt]
+                                                  ) [StatementLists]
+                                                  DesignatorStmt(
+                                                    DesignatorStatement(
+                                                      Designator(
+                                                       niz
+                                                        DesArray(
+                                                          DesignatorArrayHelper(
+                                                          ) [DesignatorArrayHelper]
+                                                          ExprNoMinus(
+                                                            Term(
+                                                              FactoDesignator(
+                                                                Designator(
+                                                                 nula
+                                                                  NoDesOpt(
+                                                                  ) [NoDesOpt]
+                                                                ) [Designator]
+                                                                NoFactorDesOpt(
+                                                                ) [NoFactorDesOpt]
+                                                              ) [FactoDesignator]
+                                                              NoMullopFacot(
+                                                              ) [NoMullopFacot]
+                                                            ) [Term]
+                                                            NoAddopTerm(
+                                                            ) [NoAddopTerm]
+                                                          ) [ExprNoMinus]
+                                                          NoDesOpt(
+                                                          ) [NoDesOpt]
+                                                        ) [DesArray]
+                                                      ) [Designator]
+                                                      DesignatorAssign(
+                                                        ExprNoMinus(
+                                                          Term(
+                                                            FactoDesignator(
+                                                              Designator(
+                                                               jedan
+                                                                NoDesOpt(
+                                                                ) [NoDesOpt]
+                                                              ) [Designator]
+                                                              NoFactorDesOpt(
+                                                              ) [NoFactorDesOpt]
+                                                            ) [FactoDesignator]
+                                                            NoMullopFacot(
+                                                            ) [NoMullopFacot]
+                                                          ) [Term]
+                                                          NoAddopTerm(
+                                                          ) [NoAddopTerm]
+                                                        ) [ExprNoMinus]
+                                                      ) [DesignatorAssign]
+                                                    ) [DesignatorStatement]
+                                                  ) [DesignatorStmt]
+                                                ) [StatementLists]
+                                                DesignatorStmt(
+                                                  DesignatorStatement(
+                                                    Designator(
+                                                     niz
+                                                      DesArray(
+                                                        DesignatorArrayHelper(
+                                                        ) [DesignatorArrayHelper]
+                                                        ExprNoMinus(
+                                                          Term(
+                                                            NumFactor(
+                                                             1
+                                                            ) [NumFactor]
+                                                            NoMullopFacot(
+                                                            ) [NoMullopFacot]
+                                                          ) [Term]
+                                                          NoAddopTerm(
+                                                          ) [NoAddopTerm]
+                                                        ) [ExprNoMinus]
+                                                        NoDesOpt(
+                                                        ) [NoDesOpt]
+                                                      ) [DesArray]
+                                                    ) [Designator]
+                                                    DesignatorAssign(
+                                                      ExprNoMinus(
+                                                        Term(
+                                                          NumFactor(
+                                                           2
+                                                          ) [NumFactor]
+                                                          NoMullopFacot(
+                                                          ) [NoMullopFacot]
+                                                        ) [Term]
+                                                        NoAddopTerm(
+                                                        ) [NoAddopTerm]
+                                                      ) [ExprNoMinus]
+                                                    ) [DesignatorAssign]
+                                                  ) [DesignatorStatement]
+                                                ) [DesignatorStmt]
+                                              ) [StatementLists]
+                                              DesignatorStmt(
+                                                DesignatorStatement(
+                                                  Designator(
+                                                   niz
+                                                    DesArray(
+                                                      DesignatorArrayHelper(
+                                                      ) [DesignatorArrayHelper]
+                                                      ExprNoMinus(
+                                                        Term(
+                                                          FactoDesignator(
+                                                            Designator(
+                                                             niz
+                                                              DesArray(
+                                                                DesignatorArrayHelper(
+                                                                ) [DesignatorArrayHelper]
+                                                                ExprNoMinus(
+                                                                  Term(
+                                                                    FactoDesignator(
+                                                                      Designator(
+                                                                       jedan
+                                                                        NoDesOpt(
+                                                                        ) [NoDesOpt]
+                                                                      ) [Designator]
+                                                                      NoFactorDesOpt(
+                                                                      ) [NoFactorDesOpt]
+                                                                    ) [FactoDesignator]
+                                                                    NoMullopFacot(
+                                                                    ) [NoMullopFacot]
+                                                                  ) [Term]
+                                                                  NoAddopTerm(
+                                                                  ) [NoAddopTerm]
+                                                                ) [ExprNoMinus]
+                                                                NoDesOpt(
+                                                                ) [NoDesOpt]
+                                                              ) [DesArray]
+                                                            ) [Designator]
+                                                            NoFactorDesOpt(
+                                                            ) [NoFactorDesOpt]
+                                                          ) [FactoDesignator]
+                                                          NoMullopFacot(
+                                                          ) [NoMullopFacot]
+                                                        ) [Term]
+                                                        NoAddopTerm(
+                                                        ) [NoAddopTerm]
+                                                      ) [ExprNoMinus]
+                                                      NoDesOpt(
+                                                      ) [NoDesOpt]
+                                                    ) [DesArray]
+                                                  ) [Designator]
+                                                  DesignatorAssign(
+                                                    ExprNoMinus(
+                                                      Term(
+                                                        FactoDesignator(
+                                                          Designator(
+                                                           niz
+                                                            DesArray(
+                                                              DesignatorArrayHelper(
+                                                              ) [DesignatorArrayHelper]
+                                                              ExprNoMinus(
+                                                                Term(
+                                                                  FactoDesignator(
+                                                                    Designator(
+                                                                     niz
+                                                                      DesArray(
+                                                                        DesignatorArrayHelper(
+                                                                        ) [DesignatorArrayHelper]
+                                                                        ExprNoMinus(
+                                                                          Term(
+                                                                            NumFactor(
+                                                                             0
+                                                                            ) [NumFactor]
+                                                                            NoMullopFacot(
+                                                                            ) [NoMullopFacot]
+                                                                          ) [Term]
+                                                                          NoAddopTerm(
+                                                                          ) [NoAddopTerm]
+                                                                        ) [ExprNoMinus]
+                                                                        NoDesOpt(
+                                                                        ) [NoDesOpt]
+                                                                      ) [DesArray]
+                                                                    ) [Designator]
+                                                                    NoFactorDesOpt(
+                                                                    ) [NoFactorDesOpt]
+                                                                  ) [FactoDesignator]
+                                                                  NoMullopFacot(
+                                                                  ) [NoMullopFacot]
+                                                                ) [Term]
+                                                                NoAddopTerm(
+                                                                ) [NoAddopTerm]
+                                                              ) [ExprNoMinus]
+                                                              NoDesOpt(
+                                                              ) [NoDesOpt]
+                                                            ) [DesArray]
+                                                          ) [Designator]
+                                                          NoFactorDesOpt(
+                                                          ) [NoFactorDesOpt]
+                                                        ) [FactoDesignator]
+                                                        MullopFact(
+                                                          NoMullopFacot(
+                                                          ) [NoMullopFacot]
+                                                          Mull(
+                                                          ) [Mull]
+                                                          NumFactor(
+                                                           3
+                                                          ) [NumFactor]
+                                                        ) [MullopFact]
+                                                      ) [Term]
+                                                      NoAddopTerm(
+                                                      ) [NoAddopTerm]
+                                                    ) [ExprNoMinus]
+                                                  ) [DesignatorAssign]
+                                                ) [DesignatorStatement]
+                                              ) [DesignatorStmt]
+                                            ) [StatementLists]
+                                            DesignatorStmt(
+                                              DesignatorStatement(
+                                                Designator(
+                                                 bodovi
+                                                  NoDesOpt(
+                                                  ) [NoDesOpt]
+                                                ) [Designator]
+                                                DesignatorAssign(
+                                                  ExprNoMinus(
+                                                    Term(
+                                                      FactoDesignator(
+                                                        Designator(
+                                                         niz
+                                                          DesArray(
+                                                            DesignatorArrayHelper(
+                                                            ) [DesignatorArrayHelper]
+                                                            ExprNoMinus(
+                                                              Term(
+                                                                NumFactor(
+                                                                 2
+                                                                ) [NumFactor]
+                                                                NoMullopFacot(
+                                                                ) [NoMullopFacot]
+                                                              ) [Term]
+                                                              NoAddopTerm(
+                                                              ) [NoAddopTerm]
+                                                            ) [ExprNoMinus]
+                                                            NoDesOpt(
+                                                            ) [NoDesOpt]
+                                                          ) [DesArray]
+                                                        ) [Designator]
+                                                        NoFactorDesOpt(
+                                                        ) [NoFactorDesOpt]
+                                                      ) [FactoDesignator]
+                                                      MullopFact(
+                                                        NoMullopFacot(
+                                                        ) [NoMullopFacot]
+                                                        Div(
+                                                        ) [Div]
+                                                        FactoDesignator(
+                                                          Designator(
+                                                           niz
+                                                            DesArray(
+                                                              DesignatorArrayHelper(
+                                                              ) [DesignatorArrayHelper]
+                                                              ExprNoMinus(
+                                                                Term(
+                                                                  NumFactor(
+                                                                   0
+                                                                  ) [NumFactor]
+                                                                  NoMullopFacot(
+                                                                  ) [NoMullopFacot]
+                                                                ) [Term]
+                                                                NoAddopTerm(
+                                                                ) [NoAddopTerm]
+                                                              ) [ExprNoMinus]
+                                                              NoDesOpt(
+                                                              ) [NoDesOpt]
+                                                            ) [DesArray]
+                                                          ) [Designator]
+                                                          NoFactorDesOpt(
+                                                          ) [NoFactorDesOpt]
+                                                        ) [FactoDesignator]
+                                                      ) [MullopFact]
+                                                    ) [Term]
+                                                    NoAddopTerm(
+                                                    ) [NoAddopTerm]
+                                                  ) [ExprNoMinus]
+                                                ) [DesignatorAssign]
+                                              ) [DesignatorStatement]
+                                            ) [DesignatorStmt]
+                                          ) [StatementLists]
+                                          PrintStmt(
+                                            ExprNoMinus(
+                                              Term(
+                                                FactoDesignator(
+                                                  Designator(
+                                                   bodovi
+                                                    NoDesOpt(
+                                                    ) [NoDesOpt]
+                                                  ) [Designator]
+                                                  NoFactorDesOpt(
+                                                  ) [NoFactorDesOpt]
+                                                ) [FactoDesignator]
+                                                NoMullopFacot(
+                                                ) [NoMullopFacot]
+                                              ) [Term]
+                                              NoAddopTerm(
+                                              ) [NoAddopTerm]
+                                            ) [ExprNoMinus]
+                                            NoPrintArg(
+                                            ) [NoPrintArg]
+                                          ) [PrintStmt]
+                                        ) [StatementLists]
+                                        PrintStmt(
+                                          ExprNoMinus(
+                                            Term(
+                                              FactoDesignator(
+                                                Designator(
+                                                 niz
+                                                  DesArray(
+                                                    DesignatorArrayHelper(
+                                                    ) [DesignatorArrayHelper]
+                                                    ExprNoMinus(
+                                                      Term(
+                                                        NumFactor(
+                                                         2
+                                                        ) [NumFactor]
+                                                        NoMullopFacot(
+                                                        ) [NoMullopFacot]
+                                                      ) [Term]
+                                                      NoAddopTerm(
+                                                      ) [NoAddopTerm]
+                                                    ) [ExprNoMinus]
+                                                    NoDesOpt(
+                                                    ) [NoDesOpt]
+                                                  ) [DesArray]
+                                                ) [Designator]
+                                                NoFactorDesOpt(
+                                                ) [NoFactorDesOpt]
+                                              ) [FactoDesignator]
+                                              NoMullopFacot(
+                                              ) [NoMullopFacot]
+                                            ) [Term]
+                                            NoAddopTerm(
+                                            ) [NoAddopTerm]
+                                          ) [ExprNoMinus]
+                                          NoPrintArg(
+                                          ) [NoPrintArg]
+                                        ) [PrintStmt]
+                                      ) [StatementLists]
+                                      DesignatorStmt(
+                                        DesignatorStatement(
+                                          Designator(
+                                           mat
+                                            NoDesOpt(
+                                            ) [NoDesOpt]
+                                          ) [Designator]
+                                          AssignError(
+                                          ) [AssignError]
+                                        ) [DesignatorStatement]
+                                      ) [DesignatorStmt]
+                                    ) [StatementLists]
+                                    DesignatorStmt(
+                                      DesignatorStatement(
+                                        Designator(
+                                         mat
+                                          DesArray(
+                                            DesignatorArrayHelper(
+                                            ) [DesignatorArrayHelper]
+                                            ExprNoMinus(
+                                              Term(
+                                                NumFactor(
+                                                 0
+                                                ) [NumFactor]
+                                                NoMullopFacot(
+                                                ) [NoMullopFacot]
+                                              ) [Term]
+                                              NoAddopTerm(
+                                              ) [NoAddopTerm]
+                                            ) [ExprNoMinus]
+                                            DesArray(
+                                              DesignatorArrayHelper(
+                                              ) [DesignatorArrayHelper]
+                                              ExprNoMinus(
+                                                Term(
+                                                  NumFactor(
+                                                   0
+                                                  ) [NumFactor]
+                                                  NoMullopFacot(
+                                                  ) [NoMullopFacot]
+                                                ) [Term]
+                                                NoAddopTerm(
+                                                ) [NoAddopTerm]
+                                              ) [ExprNoMinus]
+                                              NoDesOpt(
+                                              ) [NoDesOpt]
+                                            ) [DesArray]
+                                          ) [DesArray]
+                                        ) [Designator]
+                                        DesignatorAssign(
+                                          ExprNoMinus(
+                                            Term(
+                                              FactoDesignator(
+                                                Designator(
+                                                 niz
+                                                  DesArray(
+                                                    DesignatorArrayHelper(
+                                                    ) [DesignatorArrayHelper]
+                                                    ExprNoMinus(
+                                                      Term(
+                                                        FactoDesignator(
+                                                          Designator(
+                                                           nula
+                                                            NoDesOpt(
+                                                            ) [NoDesOpt]
+                                                          ) [Designator]
+                                                          NoFactorDesOpt(
+                                                          ) [NoFactorDesOpt]
+                                                        ) [FactoDesignator]
+                                                        NoMullopFacot(
+                                                        ) [NoMullopFacot]
+                                                      ) [Term]
+                                                      NoAddopTerm(
+                                                      ) [NoAddopTerm]
+                                                    ) [ExprNoMinus]
+                                                    NoDesOpt(
+                                                    ) [NoDesOpt]
+                                                  ) [DesArray]
+                                                ) [Designator]
+                                                NoFactorDesOpt(
+                                                ) [NoFactorDesOpt]
+                                              ) [FactoDesignator]
+                                              NoMullopFacot(
+                                              ) [NoMullopFacot]
+                                            ) [Term]
+                                            NoAddopTerm(
+                                            ) [NoAddopTerm]
+                                          ) [ExprNoMinus]
+                                        ) [DesignatorAssign]
+                                      ) [DesignatorStatement]
+                                    ) [DesignatorStmt]
+                                  ) [StatementLists]
+                                  DesignatorStmt(
+                                    DesignatorStatement(
+                                      Designator(
+                                       mat
+                                        DesArray(
+                                          DesignatorArrayHelper(
+                                          ) [DesignatorArrayHelper]
+                                          ExprNoMinus(
+                                            Term(
+                                              NumFactor(
+                                               0
+                                              ) [NumFactor]
+                                              NoMullopFacot(
+                                              ) [NoMullopFacot]
+                                            ) [Term]
+                                            NoAddopTerm(
+                                            ) [NoAddopTerm]
+                                          ) [ExprNoMinus]
+                                          DesArray(
+                                            DesignatorArrayHelper(
+                                            ) [DesignatorArrayHelper]
+                                            ExprNoMinus(
+                                              Term(
+                                                FactoDesignator(
+                                                  Designator(
+                                                   mat
+                                                    DesArray(
+                                                      DesignatorArrayHelper(
+                                                      ) [DesignatorArrayHelper]
+                                                      ExprNoMinus(
+                                                        Term(
+                                                          NumFactor(
+                                                           0
+                                                          ) [NumFactor]
+                                                          NoMullopFacot(
+                                                          ) [NoMullopFacot]
+                                                        ) [Term]
+                                                        NoAddopTerm(
+                                                        ) [NoAddopTerm]
+                                                      ) [ExprNoMinus]
+                                                      DesArray(
+                                                        DesignatorArrayHelper(
+                                                        ) [DesignatorArrayHelper]
+                                                        ExprNoMinus(
+                                                          Term(
+                                                            NumFactor(
+                                                             0
+                                                            ) [NumFactor]
+                                                            NoMullopFacot(
+                                                            ) [NoMullopFacot]
+                                                          ) [Term]
+                                                          NoAddopTerm(
+                                                          ) [NoAddopTerm]
+                                                        ) [ExprNoMinus]
+                                                        NoDesOpt(
+                                                        ) [NoDesOpt]
+                                                      ) [DesArray]
+                                                    ) [DesArray]
+                                                  ) [Designator]
+                                                  NoFactorDesOpt(
+                                                  ) [NoFactorDesOpt]
+                                                ) [FactoDesignator]
+                                                NoMullopFacot(
+                                                ) [NoMullopFacot]
+                                              ) [Term]
+                                              NoAddopTerm(
+                                              ) [NoAddopTerm]
+                                            ) [ExprNoMinus]
+                                            NoDesOpt(
+                                            ) [NoDesOpt]
+                                          ) [DesArray]
+                                        ) [DesArray]
+                                      ) [Designator]
+                                      DesignatorAssign(
+                                        ExprNoMinus(
+                                          Term(
+                                            NumFactor(
+                                             2
+                                            ) [NumFactor]
+                                            NoMullopFacot(
+                                            ) [NoMullopFacot]
+                                          ) [Term]
+                                          NoAddopTerm(
+                                          ) [NoAddopTerm]
+                                        ) [ExprNoMinus]
+                                      ) [DesignatorAssign]
+                                    ) [DesignatorStatement]
+                                  ) [DesignatorStmt]
+                                ) [StatementLists]
+                                DesignatorStmt(
+                                  DesignatorStatement(
+                                    Designator(
+                                     mat
+                                      DesArray(
+                                        DesignatorArrayHelper(
+                                        ) [DesignatorArrayHelper]
+                                        ExprNoMinus(
+                                          Term(
+                                            NumFactor(
+                                             1
+                                            ) [NumFactor]
+                                            NoMullopFacot(
+                                            ) [NoMullopFacot]
+                                          ) [Term]
+                                          NoAddopTerm(
+                                          ) [NoAddopTerm]
+                                        ) [ExprNoMinus]
+                                        DesArray(
+                                          DesignatorArrayHelper(
+                                          ) [DesignatorArrayHelper]
+                                          ExprNoMinus(
+                                            Term(
+                                              FactoDesignator(
+                                                Designator(
+                                                 jedan
+                                                  NoDesOpt(
+                                                  ) [NoDesOpt]
+                                                ) [Designator]
+                                                NoFactorDesOpt(
+                                                ) [NoFactorDesOpt]
+                                              ) [FactoDesignator]
+                                              NoMullopFacot(
+                                              ) [NoMullopFacot]
+                                            ) [Term]
+                                            AddoperationTerm(
+                                              NoAddopTerm(
+                                              ) [NoAddopTerm]
+                                              Subtract(
+                                              ) [Subtract]
+                                              Term(
+                                                FactoDesignator(
+                                                  Designator(
+                                                   niz
+                                                    DesArray(
+                                                      DesignatorArrayHelper(
+                                                      ) [DesignatorArrayHelper]
+                                                      ExprNoMinus(
+                                                        Term(
+                                                          NumFactor(
+                                                           0
+                                                          ) [NumFactor]
+                                                          NoMullopFacot(
+                                                          ) [NoMullopFacot]
+                                                        ) [Term]
+                                                        NoAddopTerm(
+                                                        ) [NoAddopTerm]
+                                                      ) [ExprNoMinus]
+                                                      NoDesOpt(
+                                                      ) [NoDesOpt]
+                                                    ) [DesArray]
+                                                  ) [Designator]
+                                                  NoFactorDesOpt(
+                                                  ) [NoFactorDesOpt]
+                                                ) [FactoDesignator]
+                                                NoMullopFacot(
+                                                ) [NoMullopFacot]
+                                              ) [Term]
+                                            ) [AddoperationTerm]
+                                          ) [ExprNoMinus]
+                                          NoDesOpt(
+                                          ) [NoDesOpt]
+                                        ) [DesArray]
+                                      ) [DesArray]
+                                    ) [Designator]
+                                    DesignatorAssign(
+                                      ExprNoMinus(
+                                        Term(
+                                          NumFactor(
+                                           5
+                                          ) [NumFactor]
+                                          NoMullopFacot(
+                                          ) [NoMullopFacot]
+                                        ) [Term]
+                                        NoAddopTerm(
+                                        ) [NoAddopTerm]
+                                      ) [ExprNoMinus]
+                                    ) [DesignatorAssign]
+                                  ) [DesignatorStatement]
+                                ) [DesignatorStmt]
+                              ) [StatementLists]
+                              DesignatorStmt(
+                                DesignatorStatement(
+                                  Designator(
+                                   mat
+                                    DesArray(
+                                      DesignatorArrayHelper(
+                                      ) [DesignatorArrayHelper]
+                                      ExprNoMinus(
+                                        Term(
+                                          NumFactor(
+                                           1
+                                          ) [NumFactor]
+                                          NoMullopFacot(
+                                          ) [NoMullopFacot]
+                                        ) [Term]
+                                        NoAddopTerm(
+                                        ) [NoAddopTerm]
+                                      ) [ExprNoMinus]
+                                      DesArray(
+                                        DesignatorArrayHelper(
+                                        ) [DesignatorArrayHelper]
+                                        ExprNoMinus(
+                                          Term(
+                                            NumFactor(
+                                             1
+                                            ) [NumFactor]
+                                            NoMullopFacot(
+                                            ) [NoMullopFacot]
+                                          ) [Term]
+                                          NoAddopTerm(
+                                          ) [NoAddopTerm]
+                                        ) [ExprNoMinus]
+                                        NoDesOpt(
+                                        ) [NoDesOpt]
+                                      ) [DesArray]
+                                    ) [DesArray]
+                                  ) [Designator]
+                                  DesignatorAssign(
+                                    ExprNoMinus(
+                                      Term(
+                                        FactoDesignator(
+                                          Designator(
+                                           mat
+                                            DesArray(
+                                              DesignatorArrayHelper(
+                                              ) [DesignatorArrayHelper]
+                                              ExprNoMinus(
+                                                Term(
+                                                  NumFactor(
+                                                   0
+                                                  ) [NumFactor]
+                                                  NoMullopFacot(
+                                                  ) [NoMullopFacot]
+                                                ) [Term]
+                                                NoAddopTerm(
+                                                ) [NoAddopTerm]
+                                              ) [ExprNoMinus]
+                                              DesArray(
+                                                DesignatorArrayHelper(
+                                                ) [DesignatorArrayHelper]
+                                                ExprNoMinus(
+                                                  Term(
+                                                    NumFactor(
+                                                     0
+                                                    ) [NumFactor]
+                                                    NoMullopFacot(
+                                                    ) [NoMullopFacot]
+                                                  ) [Term]
+                                                  NoAddopTerm(
+                                                  ) [NoAddopTerm]
+                                                ) [ExprNoMinus]
+                                                NoDesOpt(
+                                                ) [NoDesOpt]
+                                              ) [DesArray]
+                                            ) [DesArray]
+                                          ) [Designator]
+                                          NoFactorDesOpt(
+                                          ) [NoFactorDesOpt]
+                                        ) [FactoDesignator]
+                                        MullopFact(
+                                          NoMullopFacot(
+                                          ) [NoMullopFacot]
+                                          Mull(
+                                          ) [Mull]
+                                          FactoDesignator(
+                                            Designator(
+                                             mat
+                                              DesArray(
+                                                DesignatorArrayHelper(
+                                                ) [DesignatorArrayHelper]
+                                                ExprNoMinus(
+                                                  Term(
+                                                    NumFactor(
+                                                     0
+                                                    ) [NumFactor]
+                                                    NoMullopFacot(
+                                                    ) [NoMullopFacot]
+                                                  ) [Term]
+                                                  NoAddopTerm(
+                                                  ) [NoAddopTerm]
+                                                ) [ExprNoMinus]
+                                                DesArray(
+                                                  DesignatorArrayHelper(
+                                                  ) [DesignatorArrayHelper]
+                                                  ExprNoMinus(
+                                                    Term(
+                                                      NumFactor(
+                                                       1
+                                                      ) [NumFactor]
+                                                      NoMullopFacot(
+                                                      ) [NoMullopFacot]
+                                                    ) [Term]
+                                                    NoAddopTerm(
+                                                    ) [NoAddopTerm]
+                                                  ) [ExprNoMinus]
+                                                  NoDesOpt(
+                                                  ) [NoDesOpt]
+                                                ) [DesArray]
+                                              ) [DesArray]
+                                            ) [Designator]
+                                            NoFactorDesOpt(
+                                            ) [NoFactorDesOpt]
+                                          ) [FactoDesignator]
+                                        ) [MullopFact]
+                                      ) [Term]
+                                      NoAddopTerm(
+                                      ) [NoAddopTerm]
+                                    ) [ExprNoMinus]
+                                  ) [DesignatorAssign]
+                                ) [DesignatorStatement]
+                              ) [DesignatorStmt]
+                            ) [StatementLists]
+                            PrintStmt(
+                              ExprNoMinus(
+                                Term(
+                                  FactoDesignator(
+                                    Designator(
+                                     mat
+                                      DesArray(
+                                        DesignatorArrayHelper(
+                                        ) [DesignatorArrayHelper]
+                                        ExprNoMinus(
+                                          Term(
+                                            NumFactor(
+                                             1
+                                            ) [NumFactor]
+                                            NoMullopFacot(
+                                            ) [NoMullopFacot]
+                                          ) [Term]
+                                          NoAddopTerm(
+                                          ) [NoAddopTerm]
+                                        ) [ExprNoMinus]
+                                        DesArray(
+                                          DesignatorArrayHelper(
+                                          ) [DesignatorArrayHelper]
+                                          ExprNoMinus(
+                                            Term(
+                                              NumFactor(
+                                               0
+                                              ) [NumFactor]
+                                              NoMullopFacot(
+                                              ) [NoMullopFacot]
+                                            ) [Term]
+                                            NoAddopTerm(
+                                            ) [NoAddopTerm]
+                                          ) [ExprNoMinus]
+                                          NoDesOpt(
+                                          ) [NoDesOpt]
+                                        ) [DesArray]
+                                      ) [DesArray]
+                                    ) [Designator]
+                                    NoFactorDesOpt(
+                                    ) [NoFactorDesOpt]
+                                  ) [FactoDesignator]
+                                  NoMullopFacot(
+                                  ) [NoMullopFacot]
+                                ) [Term]
+                                NoAddopTerm(
+                                ) [NoAddopTerm]
+                              ) [ExprNoMinus]
+                              NoPrintArg(
+                              ) [NoPrintArg]
+                            ) [PrintStmt]
+                          ) [StatementLists]
+                          PrintStmt(
+                            ExprNoMinus(
+                              Term(
+                                FactoDesignator(
+                                  Designator(
+                                   mat
+                                    DesArray(
+                                      DesignatorArrayHelper(
+                                      ) [DesignatorArrayHelper]
+                                      ExprNoMinus(
+                                        Term(
+                                          NumFactor(
+                                           1
+                                          ) [NumFactor]
+                                          NoMullopFacot(
+                                          ) [NoMullopFacot]
+                                        ) [Term]
+                                        NoAddopTerm(
+                                        ) [NoAddopTerm]
+                                      ) [ExprNoMinus]
+                                      DesArray(
+                                        DesignatorArrayHelper(
+                                        ) [DesignatorArrayHelper]
+                                        ExprNoMinus(
+                                          Term(
+                                            NumFactor(
+                                             1
+                                            ) [NumFactor]
+                                            NoMullopFacot(
+                                            ) [NoMullopFacot]
+                                          ) [Term]
+                                          NoAddopTerm(
+                                          ) [NoAddopTerm]
+                                        ) [ExprNoMinus]
+                                        NoDesOpt(
+                                        ) [NoDesOpt]
+                                      ) [DesArray]
+                                    ) [DesArray]
+                                  ) [Designator]
+                                  NoFactorDesOpt(
+                                  ) [NoFactorDesOpt]
+                                ) [FactoDesignator]
+                                NoMullopFacot(
+                                ) [NoMullopFacot]
+                              ) [Term]
+                              NoAddopTerm(
+                              ) [NoAddopTerm]
+                            ) [ExprNoMinus]
+                            NoPrintArg(
+                            ) [NoPrintArg]
+                          ) [PrintStmt]
+                        ) [StatementLists]
+                        DesignatorStmt(
+                          DesignatorStatement(
+                            Designator(
+                             nizch
+                              NoDesOpt(
+                              ) [NoDesOpt]
+                            ) [Designator]
+                            DesignatorAssign(
+                              ExprNoMinus(
+                                Term(
+                                  FactorNew(
+                                    Type(
+                                     char
+                                    ) [Type]
+                                    FactorArrayOpt(
+                                      ExprNoMinus(
+                                        Term(
+                                          NumFactor(
+                                           3
+                                          ) [NumFactor]
+                                          NoMullopFacot(
+                                          ) [NoMullopFacot]
+                                        ) [Term]
+                                        NoAddopTerm(
+                                        ) [NoAddopTerm]
+                                      ) [ExprNoMinus]
+                                    ) [FactorArrayOpt]
+                                  ) [FactorNew]
+                                  NoMullopFacot(
+                                  ) [NoMullopFacot]
+                                ) [Term]
+                                NoAddopTerm(
+                                ) [NoAddopTerm]
+                              ) [ExprNoMinus]
+                            ) [DesignatorAssign]
+                          ) [DesignatorStatement]
+                        ) [DesignatorStmt]
+                      ) [StatementLists]
+                      DesignatorStmt(
+                        DesignatorStatement(
+                          Designator(
+                           nizch
+                            DesArray(
+                              DesignatorArrayHelper(
+                              ) [DesignatorArrayHelper]
+                              ExprNoMinus(
+                                Term(
+                                  NumFactor(
+                                   0
+                                  ) [NumFactor]
+                                  NoMullopFacot(
+                                  ) [NoMullopFacot]
+                                ) [Term]
+                                NoAddopTerm(
+                                ) [NoAddopTerm]
+                              ) [ExprNoMinus]
+                              NoDesOpt(
+                              ) [NoDesOpt]
+                            ) [DesArray]
+                          ) [Designator]
+                          DesignatorAssign(
+                            ExprNoMinus(
+                              Term(
+                                CharFactor(
+                                 a
+                                ) [CharFactor]
+                                NoMullopFacot(
+                                ) [NoMullopFacot]
+                              ) [Term]
+                              NoAddopTerm(
+                              ) [NoAddopTerm]
+                            ) [ExprNoMinus]
+                          ) [DesignatorAssign]
+                        ) [DesignatorStatement]
+                      ) [DesignatorStmt]
+                    ) [StatementLists]
+                    DesignatorStmt(
+                      DesignatorStatement(
+                        Designator(
+                         nizch
+                          DesArray(
+                            DesignatorArrayHelper(
+                            ) [DesignatorArrayHelper]
+                            ExprNoMinus(
+                              Term(
+                                FactoDesignator(
+                                  Designator(
+                                   jedan
+                                    NoDesOpt(
+                                    ) [NoDesOpt]
+                                  ) [Designator]
+                                  NoFactorDesOpt(
+                                  ) [NoFactorDesOpt]
+                                ) [FactoDesignator]
+                                NoMullopFacot(
+                                ) [NoMullopFacot]
+                              ) [Term]
+                              NoAddopTerm(
+                              ) [NoAddopTerm]
+                            ) [ExprNoMinus]
+                            NoDesOpt(
+                            ) [NoDesOpt]
+                          ) [DesArray]
+                        ) [Designator]
+                        DesignatorAssign(
+                          ExprNoMinus(
+                            Term(
+                              CharFactor(
+                               b
+                              ) [CharFactor]
+                              NoMullopFacot(
+                              ) [NoMullopFacot]
+                            ) [Term]
+                            NoAddopTerm(
+                            ) [NoAddopTerm]
+                          ) [ExprNoMinus]
+                        ) [DesignatorAssign]
+                      ) [DesignatorStatement]
+                    ) [DesignatorStmt]
+                  ) [StatementLists]
+                  DesignatorStmt(
+                    DesignatorStatement(
+                      Designator(
+                       nizch
+                        DesArray(
+                          DesignatorArrayHelper(
+                          ) [DesignatorArrayHelper]
+                          ExprNoMinus(
+                            Term(
+                              FactoDesignator(
+                                Designator(
+                                 pet
+                                  NoDesOpt(
+                                  ) [NoDesOpt]
+                                ) [Designator]
+                                NoFactorDesOpt(
+                                ) [NoFactorDesOpt]
+                              ) [FactoDesignator]
+                              NoMullopFacot(
+                              ) [NoMullopFacot]
+                            ) [Term]
+                            AddoperationTerm(
+                              NoAddopTerm(
+                              ) [NoAddopTerm]
+                              Subtract(
+                              ) [Subtract]
+                              Term(
+                                NumFactor(
+                                 3
+                                ) [NumFactor]
+                                NoMullopFacot(
+                                ) [NoMullopFacot]
+                              ) [Term]
+                            ) [AddoperationTerm]
+                          ) [ExprNoMinus]
+                          NoDesOpt(
+                          ) [NoDesOpt]
+                        ) [DesArray]
+                      ) [Designator]
+                      DesignatorAssign(
+                        ExprNoMinus(
+                          Term(
+                            CharFactor(
+                             c
+                            ) [CharFactor]
+                            NoMullopFacot(
+                            ) [NoMullopFacot]
+                          ) [Term]
+                          NoAddopTerm(
+                          ) [NoAddopTerm]
+                        ) [ExprNoMinus]
+                      ) [DesignatorAssign]
+                    ) [DesignatorStatement]
+                  ) [DesignatorStmt]
+                ) [StatementLists]
+                PrintStmt(
+                  ExprNoMinus(
+                    Term(
+                      FactoDesignator(
+                        Designator(
+                         nizch
+                          DesArray(
+                            DesignatorArrayHelper(
+                            ) [DesignatorArrayHelper]
+                            ExprNoMinus(
+                              Term(
+                                NumFactor(
+                                 1
+                                ) [NumFactor]
+                                NoMullopFacot(
+                                ) [NoMullopFacot]
+                              ) [Term]
+                              NoAddopTerm(
+                              ) [NoAddopTerm]
+                            ) [ExprNoMinus]
+                            NoDesOpt(
+                            ) [NoDesOpt]
+                          ) [DesArray]
+                        ) [Designator]
+                        NoFactorDesOpt(
+                        ) [NoFactorDesOpt]
+                      ) [FactoDesignator]
+                      NoMullopFacot(
+                      ) [NoMullopFacot]
+                    ) [Term]
+                    NoAddopTerm(
+                    ) [NoAddopTerm]
+                  ) [ExprNoMinus]
+                  NoPrintArg(
+                  ) [NoPrintArg]
+                ) [PrintStmt]
+              ) [StatementLists]
+              PrintStmt(
+                ExprNoMinus(
+                  Term(
+                    FactoDesignator(
+                      Designator(
+                       nizch
+                        DesArray(
+                          DesignatorArrayHelper(
+                          ) [DesignatorArrayHelper]
+                          ExprNoMinus(
+                            Term(
+                              FactoDesignator(
+                                Designator(
+                                 jedan
+                                  NoDesOpt(
+                                  ) [NoDesOpt]
+                                ) [Designator]
+                                NoFactorDesOpt(
+                                ) [NoFactorDesOpt]
+                              ) [FactoDesignator]
+                              MullopFact(
+                                NoMullopFacot(
+                                ) [NoMullopFacot]
+                                Mull(
+                                ) [Mull]
+                                NumFactor(
+                                 2
+                                ) [NumFactor]
+                              ) [MullopFact]
+                            ) [Term]
+                            NoAddopTerm(
+                            ) [NoAddopTerm]
+                          ) [ExprNoMinus]
+                          NoDesOpt(
+                          ) [NoDesOpt]
+                        ) [DesArray]
+                      ) [Designator]
+                      NoFactorDesOpt(
+                      ) [NoFactorDesOpt]
+                    ) [FactoDesignator]
+                    NoMullopFacot(
+                    ) [NoMullopFacot]
+                  ) [Term]
+                  NoAddopTerm(
+                  ) [NoAddopTerm]
+                ) [ExprNoMinus]
+                NoPrintArg(
+                ) [NoPrintArg]
+              ) [PrintStmt]
+            ) [StatementLists]
+            ReadStmt(
+              Designator(
+               bodovi
+                NoDesOpt(
+                ) [NoDesOpt]
+              ) [Designator]
+            ) [ReadStmt]
+          ) [StatementLists]
+          DesignatorStmt(
+            DesignatorStatement(
+              Designator(
+               bodovi
+                NoDesOpt(
+                ) [NoDesOpt]
+              ) [Designator]
+              DesignatorAssign(
+                ExprMinus(
+                  Term(
+                    FactoDesignator(
+                      Designator(
+                       bodovi
+                        NoDesOpt(
+                        ) [NoDesOpt]
+                      ) [Designator]
+                      NoFactorDesOpt(
+                      ) [NoFactorDesOpt]
+                    ) [FactoDesignator]
+                    NoMullopFacot(
+                    ) [NoMullopFacot]
+                  ) [Term]
+                  AddoperationTerm(
+                    AddoperationTerm(
+                      NoAddopTerm(
+                      ) [NoAddopTerm]
+                      Add(
+                      ) [Add]
+                      Term(
+                        FactorExpr(
+                          ExprNoMinus(
+                            Term(
+                              FactoDesignator(
+                                Designator(
+                                 pet
+                                  NoDesOpt(
+                                  ) [NoDesOpt]
+                                ) [Designator]
+                                NoFactorDesOpt(
+                                ) [NoFactorDesOpt]
+                              ) [FactoDesignator]
+                              MullopFact(
+                                MullopFact(
+                                  NoMullopFacot(
+                                  ) [NoMullopFacot]
+                                  Mull(
+                                  ) [Mull]
+                                  FactoDesignator(
+                                    Designator(
+                                     a
+                                      NoDesOpt(
+                                      ) [NoDesOpt]
+                                    ) [Designator]
+                                    NoFactorDesOpt(
+                                    ) [NoFactorDesOpt]
+                                  ) [FactoDesignator]
+                                ) [MullopFact]
+                                Div(
+                                ) [Div]
+                                NumFactor(
+                                 2
+                                ) [NumFactor]
+                              ) [MullopFact]
+                            ) [Term]
+                            AddoperationTerm(
+                              NoAddopTerm(
+                              ) [NoAddopTerm]
+                              Subtract(
+                              ) [Subtract]
+                              Term(
+                                FactoDesignator(
+                                  Designator(
+                                   jedan
+                                    NoDesOpt(
+                                    ) [NoDesOpt]
+                                  ) [Designator]
+                                  NoFactorDesOpt(
+                                  ) [NoFactorDesOpt]
+                                ) [FactoDesignator]
+                                NoMullopFacot(
+                                ) [NoMullopFacot]
+                              ) [Term]
+                            ) [AddoperationTerm]
+                          ) [ExprNoMinus]
+                        ) [FactorExpr]
+                        MullopFact(
+                          NoMullopFacot(
+                          ) [NoMullopFacot]
+                          Mull(
+                          ) [Mull]
+                          FactoDesignator(
+                            Designator(
+                             bodovi
+                              NoDesOpt(
+                              ) [NoDesOpt]
+                            ) [Designator]
+                            NoFactorDesOpt(
+                            ) [NoFactorDesOpt]
+                          ) [FactoDesignator]
+                        ) [MullopFact]
+                      ) [Term]
+                    ) [AddoperationTerm]
+                    Subtract(
+                    ) [Subtract]
+                    Term(
+                      FactorExpr(
+                        ExprNoMinus(
+                          Term(
+                            NumFactor(
+                             3
+                            ) [NumFactor]
+                            MullopFact(
+                              NoMullopFacot(
+                              ) [NoMullopFacot]
+                              Mod(
+                              ) [Mod]
+                              NumFactor(
+                               2
+                              ) [NumFactor]
+                            ) [MullopFact]
+                          ) [Term]
+                          AddoperationTerm(
+                            AddoperationTerm(
+                              NoAddopTerm(
+                              ) [NoAddopTerm]
+                              Add(
+                              ) [Add]
+                              Term(
+                                NumFactor(
+                                 3
+                                ) [NumFactor]
+                                MullopFact(
+                                  NoMullopFacot(
+                                  ) [NoMullopFacot]
+                                  Mull(
+                                  ) [Mull]
+                                  NumFactor(
+                                   2
+                                  ) [NumFactor]
+                                ) [MullopFact]
+                              ) [Term]
+                            ) [AddoperationTerm]
+                            Subtract(
+                            ) [Subtract]
+                            Term(
+                              NumFactor(
+                               3
+                              ) [NumFactor]
+                              NoMullopFacot(
+                              ) [NoMullopFacot]
+                            ) [Term]
+                          ) [AddoperationTerm]
+                        ) [ExprNoMinus]
+                      ) [FactorExpr]
+                      NoMullopFacot(
+                      ) [NoMullopFacot]
+                    ) [Term]
+                  ) [AddoperationTerm]
+                ) [ExprMinus]
+              ) [DesignatorAssign]
+            ) [DesignatorStatement]
+          ) [DesignatorStmt]
+        ) [StatementLists]
+        PrintStmt(
+          ExprNoMinus(
+            Term(
+              FactoDesignator(
+                Designator(
+                 bodovi
+                  NoDesOpt(
+                  ) [NoDesOpt]
+                ) [Designator]
+                NoFactorDesOpt(
+                ) [NoFactorDesOpt]
+              ) [FactoDesignator]
+              NoMullopFacot(
+              ) [NoMullopFacot]
+            ) [Term]
+            NoAddopTerm(
+            ) [NoAddopTerm]
+          ) [ExprNoMinus]
+          NoPrintArg(
+          ) [NoPrintArg]
+        ) [PrintStmt]
+      ) [StatementLists]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  16:15:32,576 - ===================================
+INFO  16:15:32,578 - Prepoznata konstanta nula na liniji 5
+INFO  16:15:32,578 - Prepoznata konstanta jedan na liniji 6
+INFO  16:15:32,578 - Prepoznata konstanta pet na liniji 7
+INFO  16:15:32,578 - Prepoznata globalna promenljiva b na liniji 9
+INFO  16:15:32,578 - Prepoznata globalna promenljiva niz na liniji 9
+INFO  16:15:32,578 - Prepoznata globalna promenljiva nizch na liniji 10
+INFO  16:15:32,578 - Prepoznata lokalna promenljiva bodovi na liniji 15
+INFO  16:15:32,578 - Prepoznata lokalna promenljiva bt na liniji 16
+ERROR 16:15:32,579 - Designator sa imenom mat nije definisan.  na liniji 34

@@ -1,0 +1,28 @@
+program test2
+
+const int jedan = 1;
+const int tri = 3;
+int i, test2 = 2;
+int test;
+int niz[];
+
+{
+
+	void main()
+	int pom;
+	{
+		
+		niz = new int[4];		
+		niz[0] = jedan;
+		niz[tri] = niz[0] + 5;
+		print(niz[3]);
+		
+		test = niz[jedan];
+		niz[2] = 4;
+		niz[niz[0]] = niz[3];
+		pom = niz[3] * niz[2];
+		print(pom);
+		
+	}
+}
+
